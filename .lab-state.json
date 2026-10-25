@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "VecktorZ/lab",
   "mainRulesetId": 25828944,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-1262.crm.dynamics.com",
+  "devEnvId": "0716e08a-ffb0-e78f-87ac-7cdd07ce8814",
+  "devOrgId": "38d28c05-99d0-f111-be87-000d3a5cb427",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-1262.crm.dynamics.com",
+  "testEnvId": "0c501112-183a-e513-b005-f9ed772ba51e",
+  "testOrgId": "8b93e1af-9cd0-f111-a04e-6045bd003101",
+  "testProfile": "test"
 }
